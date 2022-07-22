@@ -1,2 +1,2 @@
 # movies-app
-Movies app API google
+Movies app API google REACT
